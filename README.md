@@ -1,7 +1,9 @@
 # 👋🏼 Hola, soy Irina  
 
 Soy **productora** con experiencia en el sector cultural y creativo, especializada en la organización y gestión de proyectos musicales, artísticos y educativos.  
+
 Actualmente estoy ampliando mi perfil hacia el **análisis de datos** y la creación de contenidos digitales, explorando cómo la tecnología puede aportar nuevas perspectivas al arte y la cultura. 
+
 Tengo un especial interés en descubrir **patrones de consumo y de públicos aplicados a la música**, con el objetivo de generar propuestas más inclusivas e innovadoras.  
 
 ---
