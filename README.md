@@ -20,8 +20,8 @@ Tengo un especial interés en descubrir **patrones de consumo y de públicos apl
 ## 🛠️ Habilidades y herramientas  
 
 - **Gestión y producción cultural**: organización de eventos, coordinación de equipos, logística.  
-- **Educación y diseño**: proyectos pedagógicos, creatividad aplicada, diseño gráfico.  
-- **Data & Tech**: aprendiendo Python, SQL, pandas, matplotlib, Power BI, Excel.  
+- **Creatividad y diseño**: creatividad aplicada en proyectos, manejo de diseño gráfico.  
+- **Data & Tech**: aprendiendo Python, SQL, pandas, matplotlib, Power BI.  
 - **Contenido y comunicación**: redes sociales, TikTok, Canva, Premiere Pro, CapCut, DaVinci.  
 
 ---
